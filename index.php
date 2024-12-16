@@ -63,7 +63,7 @@
             Cooking is an art, and each dish tells a unique story. My approach combines creativity with classic techniques to craft unforgettable dining experiences.
         </p>
         <!-- Add image for Chef's Philosophy -->
-        <img src="Haydn-Shaak-2.jpg" alt="Chef's Philosophy" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
+        <img src="img_sit_web/Haydn-Shaak-2.jpg" alt="Chef's Philosophy" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
     </section>
 
     <!-- Signature Dishes Section -->
@@ -85,7 +85,7 @@
                 Only the finest ingredients make it into my kitchen. From locally-sourced produce to imported delicacies, I ensure every dish meets the highest standards.
             </p>
             <!-- Add image for Premium Ingredients -->
-            <img src="set-food-ingredients-cooking_1029473-617100.avif" alt="Premium Ingredients" class="mt-8 rounded-lg shadow-md max-w-full h-auto">
+            <img src="img_sit_web/set-food-ingredients-cooking_1029473-617100.avif" alt="Premium Ingredients" class="mt-8 rounded-lg shadow-md max-w-full h-auto">
         </div>
     </section>
 
@@ -99,7 +99,7 @@
                     Precision cooking using sous-vide methods creates perfectly tender and flavorful meats, every time.
                 </p>
                 <!-- Add image for Sous-Vide Cooking -->
-                <img src="istockphoto-1423530431-612x612.jpg" alt="Sous-Vide Cooking" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
+                <img src="img_sit_web/istockphoto-1423530431-612x612.jpg" alt="Sous-Vide Cooking" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
             </div>
             <div class="bg-gray-700 p-6 rounded-lg text-center w-1/3">
                 <h3 class="text-lg font-semibold text-yellow-500">Flame Grilling</h3>
@@ -107,7 +107,7 @@
                     Bringing out the best flavors in meats and vegetables, flame grilling adds depth and smoky notes to every dish.
                 </p>
                 <!-- Add image for Flame Grilling -->
-                <img src="istockphoto-531464366-612x612.jpg" alt="Flame Grilling" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
+                <img src="img_sit_web/istockphoto-531464366-612x612.jpg" alt="Flame Grilling" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
             </div>
             <div class="bg-gray-700 p-6 rounded-lg text-center w-1/3">
                 <h3 class="text-lg font-semibold text-yellow-500">Fine Plating</h3>
@@ -127,7 +127,7 @@
             Every meal should feel like an event. Whether it's an intimate dinner or a grand banquet, I curate experiences that exceed expectations.
         </p>
         <!-- Add image for Chef's Meal Experience -->
-        <img src="chef-restaurant-kitchen-cooks-food-stove_14117-894608.avif" alt="Chef's Meal Experience" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
+        <img src="img_sit_web/chef-restaurant-kitchen-cooks-food-stove_14117-894608.avif" alt="Chef's Meal Experience" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
     </section>
 </main>
 
