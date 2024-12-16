@@ -107,7 +107,7 @@
                     Bringing out the best flavors in meats and vegetables, flame grilling adds depth and smoky notes to every dish.
                 </p>
                 <!-- Add image for Flame Grilling -->
-                <img src="flame-grilling.jpg" alt="Flame Grilling" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
+                <img src="istockphoto-531464366-612x612.jpg" alt="Flame Grilling" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
             </div>
             <div class="bg-gray-700 p-6 rounded-lg text-center w-1/3">
                 <h3 class="text-lg font-semibold text-yellow-500">Fine Plating</h3>
@@ -115,7 +115,7 @@
                     Presentation is as important as taste. I focus on creating visually stunning plates that enhance the dining experience.
                 </p>
                 <!-- Add image for Fine Plating -->
-                <img src="fine-plating.jpg" alt="Fine Plating" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
+                <img src="zalmbloem-met-roomkaas_hr-4.webp" alt="Fine Plating" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
             </div>
         </div>
     </section>
@@ -127,7 +127,7 @@
             Every meal should feel like an event. Whether it's an intimate dinner or a grand banquet, I curate experiences that exceed expectations.
         </p>
         <!-- Add image for Chef's Meal Experience -->
-        <img src="chefs-meal-experience.jpg" alt="Chef's Meal Experience" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
+        <img src="chef-restaurant-kitchen-cooks-food-stove_14117-894608.avif" alt="Chef's Meal Experience" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
     </section>
 </main>
 
