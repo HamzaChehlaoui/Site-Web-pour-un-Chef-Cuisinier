@@ -15,7 +15,6 @@
                 opacity: 1;
             }
         }
-
         .fade-in {
             animation: fadeIn 1s ease-out;
         }
@@ -119,7 +118,6 @@
             </div>
         </div>
     </section>
-
     <!-- Chef's Meal Experience Section -->
     <section class="fade-in mt-16">
         <h2 class="text-3xl font-semibold text-yellow-500 text-center">The Chef's Meal Experience</h2>
@@ -130,10 +128,8 @@
         <img src="img_sit_web/chef-restaurant-kitchen-cooks-food-stove_14117-894608.avif" alt="Chef's Meal Experience" class="mt-8 mx-auto rounded-lg shadow-md max-w-full h-auto">
     </section>
 </main>
-
 <footer class="bg-black text-white text-center py-6">
     <p class="text-sm">© 2024 Chef's Culinary Creations. All rights reserved.</p>
 </footer>
-
 </body>
 </html>
