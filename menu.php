@@ -15,7 +15,7 @@
             <p class="text-xl mt-2"></p>
             <!-- Buttons in the header -->
             <div class="mt-4">
-                <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800 mr-4">Add Menu</button>
+                <a href="addmenu.php"><button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800 mr-4">Add Menu</button></a>
                 <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800">Delete Menu</button></a>
                <a href="reservation.php"> <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800 mr-4">Reservation</button>
                 <a href="statistique.php"><button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800">Stats</button></a>

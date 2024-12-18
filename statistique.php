@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gestion des Réservations - Statistiques</title>
+    <title>Reservation Management - Statistics</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
@@ -30,7 +30,7 @@
 
     <!-- Header -->
     <header class="py-4 text-center bg-black text-white">
-        <h1 class="text-3xl font-bold text-yellow-500">Statistiques Détaillées Pour Le Chef</h1>
+        <h1 class="text-3xl font-bold text-yellow-500">Detailed Statistics For The Chef</h1>
         <div class="text-center mb-3 mt-[1rem]">
             <a href="menu.php" class="inline-block bg-yellow-500 text-black px-6 py-2 rounded-lg font-semibold hover:scale-105 hover:shadow-lg transition-transform">
                 Back to Main Page
@@ -43,7 +43,7 @@
 
             <!-- Card Header -->
             <div class="text-2xl font-semibold mb-6 text-gray-900">
-                Statistiques du Chef
+                Chef's Statistics
             </div>
 
             <!-- Stats List -->
@@ -51,31 +51,31 @@
 
                 <!-- Pending Requests -->
                 <div class="flex justify-between items-center bg-gray-100 p-4 rounded-lg border border-gray-200">
-                    <span class="text-gray-900">Demandes en attente</span>
+                    <span class="text-gray-900">Pending Requests</span>
                     <span class="text-gray-600 font-semibold text-lg">5</span>
                 </div>
 
                 <!-- Approved Today -->
                 <div class="flex justify-between items-center bg-gray-100 p-4 rounded-lg border border-gray-200">
-                    <span class="text-gray-900">Demandes approuvées aujourd'hui</span>
+                    <span class="text-gray-900">Requests Approved Today</span>
                     <span class="text-gray-600 font-semibold text-lg">3</span>
                 </div>
 
                 <!-- Approved Tomorrow -->
                 <div class="flex justify-between items-center bg-gray-100 p-4 rounded-lg border border-gray-200">
-                    <span class="text-gray-900">Demandes approuvées pour demain</span>
+                    <span class="text-gray-900">Requests Approved for Tomorrow</span>
                     <span class="text-gray-600 font-semibold text-lg">2</span>
                 </div>
 
                 <!-- Next Client Details -->
                 <div class="flex justify-between items-center bg-gray-100 p-4 rounded-lg border border-gray-200">
-                    <span class="text-gray-900">Prochain client</span>
-                    <span class="text-gray-600 font-semibold">Pierre Dupont (20 Décembre 2024)</span>
+                    <span class="text-gray-900">Next Client</span>
+                    <span class="text-gray-600 font-semibold">Pierre Dupont (December 20, 2024)</span>
                 </div>
 
                 <!-- Registered Clients -->
                 <div class="flex justify-between items-center bg-gray-100 p-4 rounded-lg border border-gray-200">
-                    <span class="text-gray-900">Nombre de clients inscrits</span>
+                    <span class="text-gray-900">Number of Registered Clients</span>
                     <span class="text-gray-600 font-semibold text-lg">150</span>
                 </div>
 
