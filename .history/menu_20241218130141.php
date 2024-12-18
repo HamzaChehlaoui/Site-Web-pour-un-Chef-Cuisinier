@@ -7,28 +7,28 @@
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-black text-right font-sans">
+<body class="bg-gray-100 text-right font-sans">
     <!-- Header Section -->
     <header class="bg-black text-white py-4">
         <div class="container mx-auto text-center">
-            <h1 class="text-3xl font-bold text-yellow-500">Cooking is the language of Chef, blending flavors and creativity</h1>
+            <h1 class="text-3xl font-bold">Cooking is the language of Chef, blending flavors and creativity</h1>
             <p class="text-xl mt-2"></p>
             <!-- Buttons in the header -->
             <div class="mt-4">
                 <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800 mr-4">Ajoute Menu</button>
                 <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800">Delete Menu</button></a>
                <a href="reservation.php"> <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800 mr-4">Reservation</button>
-                <a href="statistique.php"><button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800">Statistique</button></a>
+                <a href="sta"><button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800">Statistique</button></a>
             </div>
         </div>
     </header>
     <!-- Menu Section -->
     <section class="py-8">
         <div class="container mx-auto px-4">
-            <h2 class="text-2xl font-semibold mb-6 text-center text-yellow-500">Menu 1</h2>
+            <h2 class="text-2xl font-semibold mb-6 text-center text-black">Menu 1</h2>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Dish 1 -->
-                <div class="bg-[#E0E0E0] p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
+                <div class="bg-white p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
                     <img src="https://via.placeholder.com/150" alt="Dish 1" class="w-full h-40 object-cover rounded-t-lg">
                     <h3 class="text-xl font-semibold mt-4 text-black">Chicken Biryani</h3>
                     <p class="text-gray-800 mt-2">Traditional Indian food with rice and special spices.</p>
@@ -51,7 +51,7 @@
                     </div>
                 </div>
                 <!-- Dish 2 -->
-                <div class="bg-[#E0E0E0] p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
+                <div class="bg-white p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
                     <img src="https://via.placeholder.com/150" alt="Dish 2" class="w-full h-40 object-cover rounded-t-lg">
                     <h3 class="text-xl font-semibold mt-4 text-black">Lentil Soup</h3>
                     <p class="text-gray-800 mt-2">A nutritious soup rich in protein.</p>
@@ -74,7 +74,7 @@
                     </div>
                 </div>
                 <!-- Dish 3 -->
-                <div class="bg-[#E0E0E0] p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
+                <div class="bg-white p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
                     <img src="https://via.placeholder.com/150" alt="Dish 3" class="w-full h-40 object-cover rounded-t-lg">
                     <h3 class="text-xl font-semibold mt-4 text-black">Falafel Sandwich</h3>
                     <p class="text-gray-800 mt-2">Fresh falafel with various sauces.</p>
@@ -114,10 +114,10 @@
     <!-- Menu Section -->
     <section class="py-8">
         <div class="container mx-auto px-4">
-            <h2 class="text-2xl font-semibold mb-6 text-center text-yellow-500">Menu 2</h2>
+            <h2 class="text-2xl font-semibold mb-6 text-center text-black">Menu 2</h2>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Repeat the dishes here with Edit and Delete buttons -->
-                <div class="bg-[#E0E0E0] p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
+                <div class="bg-white p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
                     <img src="https://via.placeholder.com/150" alt="Dish 1" class="w-full h-40 object-cover rounded-t-lg">
                     <h3 class="text-xl font-semibold mt-4 text-black">Chicken Biryani</h3>
                     <p class="text-gray-800 mt-2">Traditional Indian food with rice and special spices.</p>
@@ -141,7 +141,7 @@
                     </div>
                 </div>
                 <!-- Dish 1 -->
-                <div class="bg-[#E0E0E0] p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
+                <div class="bg-white p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
                     <img src="https://via.placeholder.com/150" alt="Dish 1" class="w-full h-40 object-cover rounded-t-lg">
                     <h3 class="text-xl font-semibold mt-4 text-black">Chicken Biryani</h3>
                     <p class="text-gray-800 mt-2">Traditional Indian food with rice and special spices.</p>
@@ -163,7 +163,7 @@
                     </svg>  </div>
                 </div>
             <!-- Dish 1 -->
-            <div class="bg-[#E0E0E0] p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
+            <div class="bg-white p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
                     <img src="https://via.placeholder.com/150" alt="Dish 1" class="w-full h-40 object-cover rounded-t-lg">
                     <h3 class="text-xl font-semibold mt-4 text-black">Chicken Biryani</h3>
                     <p class="text-gray-800 mt-2">Traditional Indian food with rice and special spices.</p>

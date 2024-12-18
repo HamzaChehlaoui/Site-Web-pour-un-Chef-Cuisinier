@@ -89,12 +89,7 @@
             </div>
         </div>
     </main>
-        <!-- Footer -->
-    <footer class="bg-black text-white py-4">
-        <div class="container mx-auto text-center">
-            <p>&copy; 2024 Chef Cousin Restaurant. All rights reserved.</p>
-        </div>
-    </footer>
+
 </body>
 
 </html>

@@ -26,11 +26,11 @@
     </style>
 </head>
 
-<body class="bg-gray-50 text-gray-800">
+<body class="bg-black text-gray-800">
 
     <!-- Header -->
-    <header class="py-4 text-center bg-black text-white">
-        <h1 class="text-3xl font-bold ">Statistiques Détaillées Pour Le Chef</h1>
+    <header class="py-4 text-center bg-gray-800 text-white">
+        <h1 class="text-3xl font-bold">Statistiques Détaillées Pour Le Chef</h1>
     </header>
 
     <!-- Main Content -->
@@ -80,7 +80,7 @@
     </main>
 
     <!-- Footer -->
-    <footer class="bg-black text-white py-4">
+    <footer class="bg-gray-800 text-white py-4">
         <div class="text-center">
             <p>&copy; 2024 Chef Cousin Restaurant. All rights reserved.</p>
         </div>

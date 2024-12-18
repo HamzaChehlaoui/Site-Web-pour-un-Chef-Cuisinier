@@ -7,35 +7,18 @@
     <title>Gestion des Réservations - Statistiques</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        /* Animation for side slide-in */
-        @keyframes slideInFromLeft {
-            0% {
-                transform: translateX(-100%);
-                opacity: 0;
-            }
-            100% {
-                transform: translateX(0);
-                opacity: 1;
-            }
-        }
-
-        .slide-in {
-            animation: slideInFromLeft 0.5s ease-out forwards;
-        }
-    </style>
 </head>
 
 <body class="bg-gray-50 text-gray-800">
 
     <!-- Header -->
-    <header class="py-4 text-center bg-black text-white">
-        <h1 class="text-3xl font-bold ">Statistiques Détaillées Pour Le Chef</h1>
+    <header class="py-4 text-center bg-gray-800 text-white">
+        <h1 class="text-3xl font-bold">Statistiques Détaillées Pour Le Chef</h1>
     </header>
 
     <!-- Main Content -->
     <main class="max-w-4xl mx-auto my-8 px-4">
-        <div class="bg-white shadow-md rounded-lg p-6 slide-in">
+        <div class="bg-white shadow-md rounded-lg p-6">
 
             <!-- Card Header -->
             <div class="text-2xl font-semibold mb-6 text-gray-900">
@@ -80,7 +63,7 @@
     </main>
 
     <!-- Footer -->
-    <footer class="bg-black text-white py-4">
+    <footer class="bg-gray-800 text-white py-4">
         <div class="text-center">
             <p>&copy; 2024 Chef Cousin Restaurant. All rights reserved.</p>
         </div>

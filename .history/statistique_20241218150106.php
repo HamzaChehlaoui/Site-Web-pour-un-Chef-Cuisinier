@@ -30,7 +30,7 @@
 
     <!-- Header -->
     <header class="py-4 text-center bg-black text-white">
-        <h1 class="text-3xl font-bold ">Statistiques Détaillées Pour Le Chef</h1>
+        <h1 class="text-3xl font-bold">Statistiques Détaillées Pour Le Chef</h1>
     </header>
 
     <!-- Main Content -->

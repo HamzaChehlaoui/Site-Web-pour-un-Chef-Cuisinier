@@ -30,7 +30,7 @@
 
     <!-- Header -->
     <header class="py-4 text-center bg-black text-white">
-        <h1 class="text-3xl font-bold ">Statistiques Détaillées Pour Le Chef</h1>
+        <h1 class="text-3xl font-bold text-yellow-500">Statistiques Détaillées Pour Le Chef</h1>
     </header>
 
     <!-- Main Content -->
@@ -46,31 +46,31 @@
             <div class="space-y-4">
 
                 <!-- Pending Requests -->
-                <div class="flex justify-between items-center bg-gray-100 p-4 rounded-lg border border-gray-200">
+                <div class="flex justify-between items-center bg-gray-700 p-4 rounded-lg border border-gray-200">
                     <span class="text-gray-900">Demandes en attente</span>
                     <span class="text-gray-600 font-semibold text-lg">5</span>
                 </div>
 
                 <!-- Approved Today -->
-                <div class="flex justify-between items-center bg-gray-100 p-4 rounded-lg border border-gray-200">
+                <div class="flex justify-between items-center bg-gray-700 p-4 rounded-lg border border-gray-200">
                     <span class="text-gray-900">Demandes approuvées aujourd'hui</span>
                     <span class="text-gray-600 font-semibold text-lg">3</span>
                 </div>
 
                 <!-- Approved Tomorrow -->
-                <div class="flex justify-between items-center bg-gray-100 p-4 rounded-lg border border-gray-200">
+                <div class="flex justify-between items-center bg-gray-700 p-4 rounded-lg border border-gray-200">
                     <span class="text-gray-900">Demandes approuvées pour demain</span>
                     <span class="text-gray-600 font-semibold text-lg">2</span>
                 </div>
 
                 <!-- Next Client Details -->
-                <div class="flex justify-between items-center bg-gray-100 p-4 rounded-lg border border-gray-200">
+                <div class="flex justify-between items-center bg-gray-700 p-4 rounded-lg border border-gray-200">
                     <span class="text-gray-900">Prochain client</span>
                     <span class="text-gray-600 font-semibold">Pierre Dupont (20 Décembre 2024)</span>
                 </div>
 
                 <!-- Registered Clients -->
-                <div class="flex justify-between items-center bg-gray-100 p-4 rounded-lg border border-gray-200">
+                <div class="flex justify-between items-center bg-gray-700 p-4 rounded-lg border border-gray-200">
                     <span class="text-gray-900">Nombre de clients inscrits</span>
                     <span class="text-gray-600 font-semibold text-lg">150</span>
                 </div>
