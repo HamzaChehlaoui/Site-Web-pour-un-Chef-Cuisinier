@@ -45,7 +45,10 @@
             <h1 class="text-3xl font-bold text-yellow-500 slide-left">Add a New Dish</h1>
         </div>
     </header>
-
+    <div class="text-center mb-3 mt-[1rem]">
+            <a href="menu.php" class="inline-block bg-yellow-500 text-black px-6 py-2 rounded-lg font-semibold hover:scale-105 hover:shadow-lg transition-transform">
+                Back to Main Page
+            </a>
     <!-- Form Section -->
     <section class="py-8">
         <div class="container mx-auto px-4">

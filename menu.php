@@ -107,13 +107,13 @@
         </div>
          <!-- /* From Uiverse.io by OnCloud125252 */  -->
             
-         <div tabindex="0" class="plusButton m-[auto] mt-[10px]">
-        <svg class="plusIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+         <a href="adddish.php"><div tabindex="0" class="plusButton m-[auto] mt-[10px]">
+         <svg class="plusIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
             <g mask="url(#mask0_21_345)">
             <path d="M13.75 23.75V16.25H6.25V13.75H13.75V6.25H16.25V13.75H23.75V16.25H16.25V23.75H13.75Z"></path>
             </g>
         </svg>
-</div>
+</div></a>
     </section>
 
     <!-- Menu Section -->
@@ -192,13 +192,13 @@
             </div>
             <!-- /* From Uiverse.io by OnCloud125252 */  -->
             
-        <div tabindex="0" class="plusButton m-[auto] mt-[10px]">
+            <a href="adddish.php"><div tabindex="0" class="plusButton m-[auto] mt-[10px]">
         <svg class="plusIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
             <g mask="url(#mask0_21_345)">
             <path d="M13.75 23.75V16.25H6.25V13.75H13.75V6.25H16.25V13.75H23.75V16.25H16.25V23.75H13.75Z"></path>
             </g>
         </svg>
-</div>
+</div></a>
         </div>
     </section>
 
