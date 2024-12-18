@@ -17,7 +17,7 @@
             <div class="mt-4">
                 <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800 mr-4">Ajoute Menu</button>
                 <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800">Delete Menu</button></a>
-               <a href="reservation.php"> <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800 mr-4">Reservation</button>
+               <a href="rese"> <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800 mr-4">Reservation</button>
                 <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800">Statistique</button>
             </div>
         </div>
