@@ -30,9 +30,13 @@
 
     <!-- Header -->
     <header class="py-4 text-center bg-black text-white">
-        <h1 class="text-3xl font-bold ">Statistiques Détaillées Pour Le Chef</h1>
+        <h1 class="text-3xl font-bold text-yellow-500">Statistiques Détaillées Pour Le Chef</h1>
+        <div class="text-center mb-3 mt-[1rem]">
+            <a href="menu.php" class="inline-block bg-yellow-500 text-black px-6 py-2 rounded-lg font-semibold hover:scale-105 hover:shadow-lg transition-transform">
+                Back to Main Page
+            </a>
+        </div>
     </header>
-
     <!-- Main Content -->
     <main class="max-w-4xl mx-auto my-8 px-4">
         <div class="bg-white shadow-md rounded-lg p-6 slide-in">

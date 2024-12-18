@@ -15,21 +15,26 @@
             <p class="text-xl mt-2"></p>
             <!-- Buttons in the header -->
             <div class="mt-4">
-                <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800 mr-4">Ajoute Menu</button>
+                <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800 mr-4">Add Menu</button>
                 <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800">Delete Menu</button></a>
                <a href="reservation.php"> <button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800 mr-4">Reservation</button>
-                <a href="statistique.php"><button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800">Statistique</button></a>
+                <a href="statistique.php"><button class="bg-black text-white py-2 px-6 rounded-lg hover:bg-gray-800">Stats</button></a>
             </div>
         </div>
     </header>
     <!-- Menu Section -->
+    <div class="text-center mb-8">
+        <a href="index.php" class="inline-block bg-yellow-500 text-black px-6 py-2 rounded-lg font-semibold hover:scale-105 hover:shadow-lg transition-transform">
+            Sign Out
+        </a>
+    </div>
     <section class="py-8">
         <div class="container mx-auto px-4">
             <h2 class="text-2xl font-semibold mb-6 text-center text-yellow-500">Menu 1</h2>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Dish 1 -->
                 <div class="bg-[#E0E0E0] p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
-                    <img src="https://via.placeholder.com/150" alt="Dish 1" class="w-full h-40 object-cover rounded-t-lg">
+                    <img src="zalmbloem-met-roomkaas_hr-4.webp" alt="Dish 1" class="w-full h-40 object-cover rounded-t-lg">
                     <h3 class="text-xl font-semibold mt-4 text-black">Chicken Biryani</h3>
                     <p class="text-gray-800 mt-2">Traditional Indian food with rice and special spices.</p>
                     <p class="mt-2 font-bold text-black">Price: 30 USD</p>
@@ -52,7 +57,7 @@
                 </div>
                 <!-- Dish 2 -->
                 <div class="bg-[#E0E0E0] p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
-                    <img src="https://via.placeholder.com/150" alt="Dish 2" class="w-full h-40 object-cover rounded-t-lg">
+                    <img src="zalmbloem-met-roomkaas_hr-4.webp" alt="Dish 2" class="w-full h-40 object-cover rounded-t-lg">
                     <h3 class="text-xl font-semibold mt-4 text-black">Lentil Soup</h3>
                     <p class="text-gray-800 mt-2">A nutritious soup rich in protein.</p>
                     <p class="mt-2 font-bold text-black">Price: 15 USD</p>
@@ -75,7 +80,7 @@
                 </div>
                 <!-- Dish 3 -->
                 <div class="bg-[#E0E0E0] p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
-                    <img src="https://via.placeholder.com/150" alt="Dish 3" class="w-full h-40 object-cover rounded-t-lg">
+                    <img src="zalmbloem-met-roomkaas_hr-4.webp" alt="Dish 3" class="w-full h-40 object-cover rounded-t-lg">
                     <h3 class="text-xl font-semibold mt-4 text-black">Falafel Sandwich</h3>
                     <p class="text-gray-800 mt-2">Fresh falafel with various sauces.</p>
                     <p class="mt-2 font-bold text-black">Price: 10 USD</p>
@@ -118,7 +123,7 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Repeat the dishes here with Edit and Delete buttons -->
                 <div class="bg-[#E0E0E0] p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
-                    <img src="https://via.placeholder.com/150" alt="Dish 1" class="w-full h-40 object-cover rounded-t-lg">
+                    <img src="zalmbloem-met-roomkaas_hr-4.webp" alt="Dish 1" class="w-full h-40 object-cover rounded-t-lg">
                     <h3 class="text-xl font-semibold mt-4 text-black">Chicken Biryani</h3>
                     <p class="text-gray-800 mt-2">Traditional Indian food with rice and special spices.</p>
                     <p class="mt-2 font-bold text-black">Price: 30 USD</p>
@@ -142,7 +147,7 @@
                 </div>
                 <!-- Dish 1 -->
                 <div class="bg-[#E0E0E0] p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
-                    <img src="https://via.placeholder.com/150" alt="Dish 1" class="w-full h-40 object-cover rounded-t-lg">
+                    <img src="zalmbloem-met-roomkaas_hr-4.webp" alt="Dish 1" class="w-full h-40 object-cover rounded-t-lg">
                     <h3 class="text-xl font-semibold mt-4 text-black">Chicken Biryani</h3>
                     <p class="text-gray-800 mt-2">Traditional Indian food with rice and special spices.</p>
                     <p class="mt-2 font-bold text-black">Price: 30 USD</p>
@@ -164,7 +169,7 @@
                 </div>
             <!-- Dish 1 -->
             <div class="bg-[#E0E0E0] p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-[#E0E0E0] transition duration-300">
-                    <img src="https://via.placeholder.com/150" alt="Dish 1" class="w-full h-40 object-cover rounded-t-lg">
+                    <img src="zalmbloem-met-roomkaas_hr-4.webp" alt="Dish 1" class="w-full h-40 object-cover rounded-t-lg">
                     <h3 class="text-xl font-semibold mt-4 text-black">Chicken Biryani</h3>
                     <p class="text-gray-800 mt-2">Traditional Indian food with rice and special spices.</p>
                     <p class="mt-2 font-bold text-black">Price: 30 USD</p>
