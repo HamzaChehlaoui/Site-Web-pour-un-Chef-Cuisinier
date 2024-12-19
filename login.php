@@ -49,7 +49,7 @@
         <h2 class="text-2xl font-semibold text-yellow-500 text-center mb-6">Login</h2>
 
         <!-- Login Form -->
-        <form action="#" method="POST">
+        <form action="chick.php" method="POST">
             <!-- Email Field -->
             <div class="mb-6">
                 <label for="email" class="block text-lg text-gray-300">Email</label>
