@@ -49,7 +49,7 @@
         <h2 class="text-2xl font-semibold text-yellow-500 text-center mb-6">Create Account</h2>
 
         <!-- Account Creation Form -->
-        <form action="#" method="POST">
+        <form action="creat_co.php" method="POST">
             <!-- Full Name Field -->
             <div class="mb-6">
                 <label for="full-name" class="block text-lg text-gray-300">Full Name</label>
@@ -75,7 +75,7 @@
             </div>
 
             <!-- Submit Button -->
-            <button type="submit" class="w-full bg-yellow-500 text-black px-6 py-2 rounded-lg font-semibold transition-transform transform hover:scale-105 hover:shadow-lg">
+            <button type="submit" name="submit" class="w-full bg-yellow-500 text-black px-6 py-2 rounded-lg font-semibold transition-transform transform hover:scale-105 hover:shadow-lg">
                 Create Account
             </button>
         </form>
