@@ -52,8 +52,12 @@
         <form action="creat_co.php" method="POST">
             <!-- Full Name Field -->
             <div class="mb-6">
-                <label for="full-name" class="block text-lg text-gray-300">Full Name</label>
-                <input type="text" id="full-name" name="full-name" placeholder="Your full name" class="w-full bg-gray-700 text-white px-4 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-500">
+                <label for="first-name" class="block text-lg text-gray-300">First Name</label>
+                <input type="text" id="first-name" name="first-name" placeholder="Your full name" class="w-full bg-gray-700 text-white px-4 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-500">
+            </div>
+            <div class="mb-6">
+                <label for="last-name" class="block text-lg text-gray-300">Last Name</label>
+                <input type="text" id="last-name" name="last-name" placeholder="Your full name" class="w-full bg-gray-700 text-white px-4 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-500">
             </div>
 
             <!-- Email Field -->
@@ -66,12 +70,6 @@
             <div class="mb-6">
                 <label for="password" class="block text-lg text-gray-300">Password</label>
                 <input type="password" id="password" name="password" placeholder="Your password" class="w-full bg-gray-700 text-white px-4 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-500">
-            </div>
-
-            <!-- Confirm Password Field -->
-            <div class="mb-6">
-                <label for="confirm-password" class="block text-lg text-gray-300">Confirm Password</label>
-                <input type="password" id="confirm-password" name="confirm-password" placeholder="Confirm your password" class="w-full bg-gray-700 text-white px-4 py-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-500">
             </div>
 
             <!-- Submit Button -->
