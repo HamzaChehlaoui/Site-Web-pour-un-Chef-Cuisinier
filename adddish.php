@@ -66,17 +66,12 @@
                     </div>
 
                     <div>
-                        <label for="dish-price" class="block text-lg font-medium text-white">Dish Price (USD)</label>
-                        <input type="number" id="dish-price" name="dish_price" class="w-full mt-2 p-3 rounded-lg bg-gray-700 text-white border border-gray-600" required>
-                    </div>
-
-                    <div>
                         <label for="dish-image" class="block text-lg font-medium text-white">Dish Image (URL)</label>
                         <input type="url" id="dish-image" name="dish_image" class="w-full mt-2 p-3 rounded-lg bg-gray-700 text-white border border-gray-600" required>
                     </div>
 
                     <div class="flex justify-center mt-6">
-                        <button type="submit" class="bg-yellow-500 text-black px-8 py-3 rounded-lg hover:bg-yellow-400 transition slide-left">Add Dish</button>
+                        <button type="submit" name="submit" class="bg-yellow-500 text-black px-8 py-3 rounded-lg hover:bg-yellow-400 transition slide-left">Add Dish</button>
                     </div>
                 </form>
             </div>
