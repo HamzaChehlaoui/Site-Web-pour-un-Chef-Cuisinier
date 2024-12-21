@@ -23,12 +23,10 @@
                     exit;
                 } else {
                     echo 'Invalid email or password';
-                    
                 }
             } else {
                 echo 'ERROR: You Cannot Browse This Page Directly';
             }
-        
     } else {
         echo 'No users found in the database';
     }
